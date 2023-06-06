@@ -21,7 +21,7 @@ Program DNA Translator terdiri dari 1 kelas __DNATranslator__ dan 3 method, sala
 
 
 #### GROUP 11
-Ahmad Zul Zhafran
-\nAhmad Radesta
-\nUlfa Stevi Juliana
+###### Ahmad Zul Zhafran
+###### Ahmad Radesta
+###### Ulfa Stevi Juliana
 #### INFORMATIKA B
