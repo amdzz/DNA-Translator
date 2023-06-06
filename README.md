@@ -11,4 +11,4 @@ menggunakan program ini, pengguna dapat menginput urutan DNA (contoh: TACGGCCCAT
 
 ### Contoh Luaran Ketika Terdapat Kodon Stop
 
-![My Image](Media/1412 (stop).png)
+![My Image](Media/stop.png)
